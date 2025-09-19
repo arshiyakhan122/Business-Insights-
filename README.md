@@ -126,17 +126,23 @@ Fact table : It will have the data about the transactions
   - Poor data modeling affects the over all performance of the report.
   - Following Good practices of data modeling is must. Refer this page to get to know the good practices Blog
   - In this project, we have followed Snowfall data modeling method.
-    ![Data Model](powerbi work/datamodel.png)
+    ![Alt Text](Data_model.png)
 
 # Dashboard designing
 In Home view, all the views button will be available. User will land on specific view page by clicking the button
 - Info
 - Finance View
+  ![Alt Text](Finance.png)
 - Sales View
+  ![Alt Text](Sales.png)
 - Marketing View
+ ![Alt Text](Marketing.png)
 - Supply chain View
+ ![Alt Text](supply chain.png)
 - Executive View
+ ![Alt Text](Executive.png)
 - Products
+ ![Alt Text](Products View.png)
 - Support
 # Project Outcome
 By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
