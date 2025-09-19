@@ -131,6 +131,7 @@ Fact table : It will have the data about the transactions
 # Dashboard designing
 In Home view, all the views button will be available. User will land on specific view page by clicking the button
 - Info
+ ![Alt Text](Info.png)
 - Finance View
   ![Alt Text](Finance.png)
 - Sales View
