@@ -131,19 +131,19 @@ Fact table : It will have the data about the transactions
 # Dashboard designing
 In Home view, all the views button will be available. User will land on specific view page by clicking the button
 - Info
- ![Alt Text](Info.png)
+ ![Alt Text](Info.gif)
 - Finance View
-  ![Alt Text](Finance.png)
+  ![Alt Text](Finance.gif)
 - Sales View
-  ![Alt Text](Sales.png)
+  ![Alt Text](Sales.gif)
 - Marketing View
- ![Alt Text](Marketing.png)
+ ![Alt Text](Marketing.gif)
 - Supply chain View
- ![Alt Text](supply chain.png)
+ ![Alt Text](supply chain.gif)
 - Executive View
- ![Alt Text](Executive.png)
+ ![Alt Text](Executive.gif)
 - Products
- ![Alt Text](Products View.png)
+ ![Alt Text](Products View.gif)
 - Support
 # Project Outcome
 By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
