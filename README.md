@@ -132,8 +132,8 @@ Fact table : It will have the data about the transactions
 In Home view, all the views button will be available. User will land on specific view page by clicking the button
 - Info
  ![Alt Text](Info.gif)
-- Finace View
- ![Alt Text](Finance.gif)
+- Finance View
+ ![Alt Text](Finace.gif)
 - Sales View
   ![Alt Text](Sales.gif)
 - Marketing View
